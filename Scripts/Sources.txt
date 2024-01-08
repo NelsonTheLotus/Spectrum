@@ -1,0 +1,11 @@
+Detecting type of OS:
+https://web.archive.org/web/20191012035921/http://nadeausoftware.com/articles/2012/01/c_c_tip_how_use_compiler_predefined_macros_detect_operating_system
+
+Using ANSI escape sequences:
+https://solarianprogrammer.com/2019/04/08/c-programming-ansi-escape-codes-windows-macos-linux-terminals/
+
+List of ANSI Colors:
+https://gist.github.com/Prakasaka/219fe5695beeb4d6311583e79933a009
+
+ANSI Color table:
+https://talyian.github.io/ansicolors/
