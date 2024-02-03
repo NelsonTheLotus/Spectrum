@@ -1,2 +1,2 @@
 # Spectrum
-A adaptable, quick and easy text output coloring library.
+A flexible, portable and adaptable console output coloring library for C/C++.
